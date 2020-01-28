@@ -12,7 +12,7 @@ var productsRouter = require('./routes/products');
 var usersRouter = require('./routes/users');
 const methodOverride = require('method-override');
 
-
+// Aqui van las rutas
 app.get('/', indexRouter);
 app.get('/users', usersRouter);
 
