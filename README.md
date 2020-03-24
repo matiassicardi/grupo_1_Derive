@@ -1,4 +1,4 @@
-## Acerca de Derivé.
+# Acerca de Derivé.
 
 Nuestro cliente, la empresa argentina Derivé, es una novedosa forma de compartir y regalar experiencias. 
 
@@ -18,14 +18,14 @@ Se plante la construcción de un sitio eComerce en el que los usuarios puedan na
 
 ## Lenguajes de construcción y FrameWorks
 
-Adobe CC XD
-HTML5
-CSS3
-JavaScript
-Node.js
-Express.js
-React.js
-Boostrap
+-Adobe CC XD
+-HTML5
+-CSS3
+-JavaScript
+-Node.js
+-Express.js
+-React.js
+-Boostrap
 
 ## Sitios de referencia
 
