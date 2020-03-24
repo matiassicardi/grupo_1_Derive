@@ -1,4 +1,4 @@
-##vAcerca de Derivé.
+## Acerca de Derivé.
 
 Nuestro cliente, la empresa argentina Derivé, es una novedosa forma de compartir y regalar experiencias. 
 
@@ -33,7 +33,7 @@ https://fanbag.com.ar/
 
 https://www.bigbox.com.ar/
 
-## Tablero de trabajo 
+## Tablero de Trabajo
 
 https://trello.com/b/cYwbG55W/deriv%C3%A9-tareas
 
