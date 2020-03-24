@@ -18,14 +18,14 @@ Se plante la construcción de un sitio eComerce en el que los usuarios puedan na
 
 ## Lenguajes de construcción y FrameWorks
 
--Adobe CC XD
--HTML5
--CSS3
--JavaScript
--Node.js
--Express.js
--React.js
--Boostrap
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Node.js
+- Express.js
+- React.js
+- Boostrap
 
 ## Sitios de referencia
 
