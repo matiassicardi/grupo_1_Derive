@@ -1,4 +1,4 @@
-Acerca de Derivé.
+##vAcerca de Derivé.
 
 Nuestro cliente, la empresa argentina Derivé, es una novedosa forma de compartir y regalar experiencias. 
 
@@ -8,7 +8,7 @@ Sus productos apuntan a cubrir todos los deseos de su espectro de clientes, a tr
 
 Su eslogan es "Dejate llevar por la experiencia"
 
-Acerca del derive.com
+## Acerca del derive.com
 
 El cliente nos solita un sitio web que sea acorde con su filosofía de negocio. En esta primera etapa, se presentarán los principales frames para discutir con su equipo de MKT.
 
@@ -16,7 +16,7 @@ Para la construcción de las pantallas utilizaremos la herramienta XD de la Suit
 
 Se plante la construcción de un sitio eComerce en el que los usuarios puedan navegar armónicamente entre las diferentes categorías, buscando las más acordes a sus gustos, se les solicite sus datos de contacto para poder guardar un registro de su navegación, y puedan los usuarios sugerir nuevas categorías y experiencias.
 
-Lenguajes de construcción y FrameWorks
+## Lenguajes de construcción y FrameWorks
 
 Adobe CC XD
 HTML5
@@ -27,11 +27,13 @@ Express.js
 React.js
 Boostrap
 
-Sitios de referencia
+## Sitios de referencia
 
 https://fanbag.com.ar/
 
 https://www.bigbox.com.ar/
 
-Tablero de trabajo: https://trello.com/b/cYwbG55W/deriv%C3%A9-tareas
+## Tablero de trabajo 
+
+https://trello.com/b/cYwbG55W/deriv%C3%A9-tareas
 
